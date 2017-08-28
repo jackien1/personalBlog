@@ -18,7 +18,7 @@ head:
 
 # Jump Links Settings
 url:
-    rss: "atom.xml"
+    rss: "rss.xml"
     daily_pic: "#"
     logo: "#"
 
