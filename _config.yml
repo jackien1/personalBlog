@@ -5,14 +5,14 @@
 # Site
 title: Ni Not Nickel
 subtitle:
-description: It's Ni, not nickel. 
+description: It's Ni, not nickel.
 author: Jackie Ni
 language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://ninotnickel.netlify.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
