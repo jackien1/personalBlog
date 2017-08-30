@@ -205,8 +205,8 @@ search:
 # Available value:
 #     baidu | google | cnzz
 analytics:
-    use: google
-    site_id: UA-102060560-1
+    use: 
+    site_id:
 
 # Leancloud Views
 leancloud:
