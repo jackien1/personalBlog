@@ -1,5 +1,5 @@
 ---
-title: "A World of Men, Count woMEn TOO"
+title: "In a World of Men, Count woMEn TOO"
 date: 2018-01-18
 category: "english"
 ---
