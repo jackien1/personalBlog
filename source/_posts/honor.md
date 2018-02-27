@@ -1,0 +1,7 @@
+---
+title: Honor Gained, Humanity Gone
+date: 2018-2-27
+category: "english"
+---
+
+When the Vicario family questioned Angela for the man who deflowered her, she blamed Santiago Nasar. Her brothers, believing her accusation, enacted a plan to murder Santiago with honor as their reasoning. Nevertheless, Santiago Nasar's cruel death at the hands of the Vicario deaths does not constitute a "honor killing." The video defines "honor killing" as the murder of one family by another due to a perceived shameful act by the victim upon their family or community. Santiago Nasar is not related to the Vicario family, and thus his death does not follow under "honor killing." If he is related to the Vicario family, that would be another whole bucket of worms. Furthermore, the family does not have definitive proof that Santiago took Angela's virginity. How can the family say that Santiago shamed them when they are not even sure if he deflowered Angela? Evidently, the murder seems more like an indiscriminate witch hunt. On the other hand, the video made me question humanity. I fail to see how parents could kill their offspring because they want to marry people they love and not some pre-arranged bloke. Also, found it disgusting that fathers would kill their daughters despite being forcibly raped. Not only are these women powerless in their sexual activities, but they are also unable to keep their own lives. Shaming a family's honor is understandable terrible, but ending another life to compensate artificial social constructs cannot be tangibly justified.
