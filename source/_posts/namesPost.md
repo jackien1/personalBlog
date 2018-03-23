@@ -1,5 +1,5 @@
 ---
-title: "J"+"A"+"C"+"K"+"I"+"E"
+title: "J+A+C+K+I+E"
 date: 2018-03-22
 category: "english"
 ---
