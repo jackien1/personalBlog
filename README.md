@@ -1,1 +1,1 @@
-Knowledge awaits.
+https://ninotnickel.netlify.com
